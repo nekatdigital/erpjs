@@ -44,7 +44,7 @@
     "@types/multer": "^1.4.11",
     "async-lock": "^1.4.1",
     "aws-sdk": "^2.1515.0",
-    "axios": "^1.6.2",
+    "axios": "^1.12.2",
     "azure-storage": "^2.10.7",
     "deep-equal": "^2.2.3",
     "graphql": "^16.8.1",
